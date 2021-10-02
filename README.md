@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Rodrigo Miranda! 👋
 
-<!--
-**rodrigo-miranda18/rodrigo-miranda18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-Rodrigo%20Miranda-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoamiranda">
+<img src="https://img.shields.io/badge/-rodrigo.miran08@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.mira08@gmail.com">
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front End Developer and a student in Information Systems at UTFPR. I'm passionate about the best web development technologies like Javascript, Typescript, NodeJS, ReactJS and NextJS. 
+
+- 🔭 I’m currently working on <a href="https://apiki.com/">Apiki</a>
+- 🌱 I have experience with Javascript, ReactJS and NextJS.
+
+<hr>
+
+#### Never Stop Learning 🚀🚀🚀🚀
+
