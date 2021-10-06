@@ -8,7 +8,7 @@
   </a>
   <a href="mailto:rodrigo.mira08@gmail.com">
     <img 
-       src="https://img.shields.io/badge/-rodrigo.miran08@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.mira08@gmail.com"
+       src="https://img.shields.io/badge/-rodrigo.mira08@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.mira08@gmail.com"
      >
   </a>
 </div>
