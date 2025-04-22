@@ -17,7 +17,7 @@
 
 I'm a Software Engineer focused on web development and a student in Information Systems at UTFPR. I'm passionate about the best web development technologies like Javascript, Typescript, NodeJS, ReactJS and NextJS. 
 
-- 🔭 I’m currently working on <a href="https://apiki.com/">Apiki</a>
+- 🔭 I’m currently working on <a href="https://www.driva.io/">Driva</a>
 - 🌱 I have experience with Javascript, ReactJS and NextJS.
 
 <hr>
